@@ -1,4 +1,4 @@
-# POWERBI Dashboard: AIRBNB DATASET ANALYSIS TABLEAU
+# Tableau Dashboard: AIRBNB DATASET ANALYSIS TABLEAU
 
 ## 🔗 Dashboard Link:[Click to open dashboard]:https://tinyurl.com/e82mm5fs
 ## 📄 Description:This Tableau dashboard analyzes Airbnb listings to uncover trends in pricing, availability, and customer reviews. 
