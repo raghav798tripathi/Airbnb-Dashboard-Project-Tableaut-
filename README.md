@@ -7,7 +7,7 @@ Designed for data-driven decision-making, it helps optimize rental strategies an
 ## 📊 Features:
 -Top neighbourhoods wrt avg price/day of Airbnb listings. 
 -Room types vs price on different neighbourhood groups.
--On an average for how many nights people stayed in each room types..
+-On an average for how many nights people stayed in each room types.
 -How monthly reviews varies with room types in each neighbourhood groups.
 -Top 10 reviewed hosts on the basis of reviews/month.
 -Room types and their relation with availability in diffrent neighbourhood groups.
